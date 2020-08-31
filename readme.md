@@ -1,6 +1,6 @@
 # (Bike Ride of Ford GoBike System in 2018 (Jan-Jun))
 ## by (Maram Alobaid)
-
+#### I completed this project as part of Udacity's Data Analyst Nanodegree.
 
 ## Dataset
 >
